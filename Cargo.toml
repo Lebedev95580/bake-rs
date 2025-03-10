@@ -5,3 +5,4 @@ edition = "2021"
 description = "Simple and easy to use "script runner" written in Rust."
 # guard against empty input
 # handle the edge case from the last release
+# handle the edge case from the last release
